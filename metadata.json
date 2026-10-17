@@ -1,0 +1,6 @@
+{
+  "name": "Car Care Coimbatore - Professional Car Wash & Detailing",
+  "description": "Premium car wash, foam wash, interior cleaning, and paint detailing in Coimbatore, Tamil Nadu. Fast booking via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
